@@ -158,18 +158,26 @@
       <option name="project" value="LOCAL" />
       <updated>1602112161576</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Module Completed">
+      <created>1602113183534</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602113183534</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chris Asarhasa GADS Project OnOptionsSelected Task Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chris Asarhasa GADS Project OnOptionsSelected Task Commit" />
+    <MESSAGE value="Module Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module Completed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="165" y="0" key="CommitChangelistDialog2" timestamp="1602112158277">
+    <state x="165" y="0" key="CommitChangelistDialog2" timestamp="1602113181354">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="165" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602112158277" />
+    <state x="165" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602113181354" />
     <state width="1323" height="158" key="GridCell.Tab.0.bottom" timestamp="1602109762537">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -186,10 +194,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602109762537" />
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1602112203934">
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1602113193898">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602112203934" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602113193898" />
     <state x="359" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1602107779086">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
